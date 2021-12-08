@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nft-preview-card/static/css/main.9cb6ea3c.chunk.css",
+    "main.js": "/nft-preview-card/static/js/main.2b46f4e5.chunk.js",
+    "main.js.map": "/nft-preview-card/static/js/main.2b46f4e5.chunk.js.map",
+    "runtime-main.js": "/nft-preview-card/static/js/runtime-main.0e1e4bae.js",
+    "runtime-main.js.map": "/nft-preview-card/static/js/runtime-main.0e1e4bae.js.map",
+    "static/js/2.34113765.chunk.js": "/nft-preview-card/static/js/2.34113765.chunk.js",
+    "static/js/2.34113765.chunk.js.map": "/nft-preview-card/static/js/2.34113765.chunk.js.map",
+    "index.html": "/nft-preview-card/index.html",
+    "static/css/main.9cb6ea3c.chunk.css.map": "/nft-preview-card/static/css/main.9cb6ea3c.chunk.css.map",
+    "static/js/2.34113765.chunk.js.LICENSE.txt": "/nft-preview-card/static/js/2.34113765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e1e4bae.js",
+    "static/js/2.34113765.chunk.js",
+    "static/css/main.9cb6ea3c.chunk.css",
+    "static/js/main.2b46f4e5.chunk.js"
+  ]
+}
