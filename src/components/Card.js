@@ -2,7 +2,7 @@ import React from 'react';
 
 function Card(){
   return (
-  <div className="card">Card</div>
+  <div className="card">CardNew</div>
   );
 }
 
