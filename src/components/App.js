@@ -1,8 +1,11 @@
-import React from 'react';
+import React  from 'react';
+import Card   from './Card';
 
 function App() {
   return (
-    <div>App</div>
+    <div className="page">
+      <Card />
+    </div>
   );
 }
 
