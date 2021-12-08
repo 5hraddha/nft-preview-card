@@ -1,2 +1,0 @@
-(this["webpackJsonpnft-preview-card"]=this["webpackJsonpnft-preview-card"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),i=n(3),s=n.n(i),d=(n(8),n(1));var o=function(){return Object(d.jsx)("div",{children:"App"})};s.a.render(Object(d.jsx)(c.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.2b46f4e5.chunk.js.map
