@@ -1,2 +1,0 @@
-(this["webpackJsonpnft-preview-card"]=this["webpackJsonpnft-preview-card"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),a=c(3),s=c.n(a),i=(c(8),c(0));var d=function(){return Object(i.jsx)("div",{className:"card",children:"CardNew"})};var j=function(){return Object(i.jsx)("div",{className:"page",children:Object(i.jsx)(d,{})})};s.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(j,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.70c3a205.chunk.js.map
