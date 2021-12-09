@@ -1,4 +1,4 @@
-import Time from 'react';
+import React from 'react';
 
 function Time(){
   return (
