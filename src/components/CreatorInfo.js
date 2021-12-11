@@ -2,7 +2,7 @@ import React from 'react';
 
 function CreatorInfo(){
   return (
-  <div className="card">CreatorInfo</div>
+  <div></div>
   );
 }
 

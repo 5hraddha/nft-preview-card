@@ -1,0 +1,7 @@
+.price__value {
+  margin: 0;
+  padding: 0 0 0 7px;
+  font-size: 18px;
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+}

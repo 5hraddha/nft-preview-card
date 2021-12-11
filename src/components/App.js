@@ -4,7 +4,9 @@ import Card   from './Card';
 function App() {
   return (
     <div className="page">
-      <Card />
+      <div className="page__wrapper">
+        <Card />
+      </div>
     </div>
   );
 }

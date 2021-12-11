@@ -1,9 +1,9 @@
 .card {
+  box-sizing: border-box;
   margin: 0;
-  padding: 0;
-  width: 80vw;
-  height: 80vh;
+  padding: 25px;
+  grid-column: 2;
   background-color: hsl(216, 50%, 16%);
-  border: 1px solid #fff;
-  color: #fff;
+  border-radius: 15px;
+  border: 1px solid white;
 }

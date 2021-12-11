@@ -1,0 +1,19 @@
+.page__wrapper {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1440px;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 375px minmax(0, 1fr);
+  justify-content: center;
+  align-items: center;
+  border: 1px solid yellow;
+}
+
+@media screen and (max-width: 400px) {
+  .page__wrapper {
+    grid-template-columns: minmax(0, 1fr) 320px minmax(0, 1fr);
+  }
+}

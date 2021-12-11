@@ -1,0 +1,7 @@
+.remaining-time__value {
+  margin: 0;
+  padding: 0 0 0 7px;
+  font-size: 18px;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}

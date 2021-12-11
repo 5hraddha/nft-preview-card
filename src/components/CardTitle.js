@@ -2,7 +2,7 @@ import React from 'react';
 
 function CardTitle() {
   return (
-    <div>CardTitle</div>
+    <h1 className="title">Equilibrium #3429</h1>
   );
 }
 

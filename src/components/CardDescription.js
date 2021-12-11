@@ -2,7 +2,7 @@ import React from 'react';
 
 function CardDescription() {
   return (
-    <div>CardDescription</div>
+    <p className="description">Our Equilibrium collection promotes balance and calm.</p>
   );
 }
 

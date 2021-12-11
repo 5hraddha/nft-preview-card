@@ -3,23 +3,25 @@ import CardBanner from './CardBanner';
 import CardTitle from './CardTitle';
 import CardDescription from './CardDescription';
 import Price from './Price';
-import Time from './Time';
+import RemainingTime from './RemainingTime';
 import SectionDivider from './SectionDivider';
 import Avatar from './Avatar';
 import CreatorInfo from './CreatorInfo';
 
 function Card(){
   return (
-    <div className="card">
+    <main className="card">
       <CardBanner />
       <CardTitle />
       <CardDescription />
-      <Price />
-      <Time />
+      <div className="product-info">
+        <Price />
+        <RemainingTime />
+      </div>
       <SectionDivider />
       <Avatar />
       <CreatorInfo />
-    </div>
+    </main>
   );
 }
 

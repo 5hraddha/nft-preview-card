@@ -2,7 +2,7 @@ import React from 'react';
 
 function SectionDivider(){
   return (
-  <div className="card">Section Divider</div>
+  <div className="divider"></div>
   );
 }
 

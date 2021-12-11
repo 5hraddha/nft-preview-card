@@ -1,5 +1,26 @@
 @import url(./vendor/normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
 @import url(./block/page/page.css);
+@import url(./block/page/__wrapper/page__wrapper.css);
 
 @import url(./block/card/card.css);
+
+@import url(./block/card-banner/card-banner.css);
+@import url(./block/card-banner/__img/card-banner__img.css);
+
+@import url('./block/title/title.css');
+
+@import url('./block/description/description.css');
+
+@import url('./block/price/price.css');
+@import url('./block/price/__icon/price__icon.css');
+@import url('./block/price/__value/price__value.css');
+
+@import url('./block/remaining-time/remaining-time.css');
+@import url('./block/remaining-time/__icon/remaining-time__icon.css');
+@import url('./block/remaining-time/__value/remaining-time__value.css');
+
+@import url('./block/product-info/product-info.css');
+
+@import url('./block/divider/divider.css');
