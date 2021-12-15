@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/nft-preview-card/static/css/main.1cf37e65.chunk.css",
-    "main.js": "/nft-preview-card/static/js/main.d2eefef2.chunk.js",
-    "main.js.map": "/nft-preview-card/static/js/main.d2eefef2.chunk.js.map",
+    "main.css": "/nft-preview-card/static/css/main.66140cbb.chunk.css",
+    "main.js": "/nft-preview-card/static/js/main.598f13fc.chunk.js",
+    "main.js.map": "/nft-preview-card/static/js/main.598f13fc.chunk.js.map",
     "runtime-main.js": "/nft-preview-card/static/js/runtime-main.0e1e4bae.js",
     "runtime-main.js.map": "/nft-preview-card/static/js/runtime-main.0e1e4bae.js.map",
     "static/js/2.7efe2421.chunk.js": "/nft-preview-card/static/js/2.7efe2421.chunk.js",
     "static/js/2.7efe2421.chunk.js.map": "/nft-preview-card/static/js/2.7efe2421.chunk.js.map",
     "index.html": "/nft-preview-card/index.html",
-    "static/css/main.1cf37e65.chunk.css.map": "/nft-preview-card/static/css/main.1cf37e65.chunk.css.map",
-    "static/js/2.7efe2421.chunk.js.LICENSE.txt": "/nft-preview-card/static/js/2.7efe2421.chunk.js.LICENSE.txt"
+    "static/css/main.66140cbb.chunk.css.map": "/nft-preview-card/static/css/main.66140cbb.chunk.css.map",
+    "static/js/2.7efe2421.chunk.js.LICENSE.txt": "/nft-preview-card/static/js/2.7efe2421.chunk.js.LICENSE.txt",
+    "static/media/icon-clock.991a6522.svg": "/nft-preview-card/static/media/icon-clock.991a6522.svg",
+    "static/media/icon-ethereum.5221f332.svg": "/nft-preview-card/static/media/icon-ethereum.5221f332.svg",
+    "static/media/index.css": "/nft-preview-card/static/media/icon-view.fedac551.svg",
+    "static/media/image-equilibrium.88bdbc91.jpg": "/nft-preview-card/static/media/image-equilibrium.88bdbc91.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e1e4bae.js",
     "static/js/2.7efe2421.chunk.js",
-    "static/css/main.1cf37e65.chunk.css",
-    "static/js/main.d2eefef2.chunk.js"
+    "static/css/main.66140cbb.chunk.css",
+    "static/js/main.598f13fc.chunk.js"
   ]
 }
