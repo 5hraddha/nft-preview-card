@@ -8,6 +8,12 @@ import CreatorDetails     from './CreatorDetails';
 import CardBannerImg      from './../images/image-equilibrium.jpg';
 import Avatar             from "./../images/image-avatar.png";
 
+/**
+ * The **Card** component representing the NFT Preview Card
+ *
+ * @version 1.0.0
+ * @author [Shraddha](https://github.com/5hraddha)
+ */
 function Card(){
   const creator = {
     name: 'Jules Wyvern',

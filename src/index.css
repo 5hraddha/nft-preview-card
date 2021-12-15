@@ -1,33 +1,46 @@
+/* stylesheet from the external vendor */
 @import url(./vendor/normalize.css);
 @import url(https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap);
 
+/* stylesheets for the block - page */
 @import url(./block/page/page.css);
 @import url(./block/page/__wrapper/page__wrapper.css);
 
+/* stylesheets for the block - card */
 @import url(./block/card/card.css);
 
+/* stylesheets for the block - card-banner */
 @import url(./block/card-banner/card-banner.css);
 @import url(./block/card-banner/__img/card-banner__img.css);
 
+/* stylesheets for the block - card-title */
 @import url(./block/card-title/card-title.css);
 
+/* stylesheets for the block - card-description */
 @import url(./block/card-description/card-description.css);
 
+/* stylesheets for the block - price */
 @import url(./block/price/price.css);
 @import url(./block/price/__icon/price__icon.css);
 @import url(./block/price/__value/price__value.css);
 
+/* stylesheets for the block - remaining-time */
 @import url(./block/remaining-time/remaining-time.css);
 @import url(./block/remaining-time/__icon/remaining-time__icon.css);
 @import url(./block/remaining-time/__value/remaining-time__value.css);
 
+/* stylesheets for the block - product-info */
 @import url(./block/product-info/product-info.css);
 
+/* stylesheets for the block - divider */
 @import url(./block/divider/divider.css);
 
+/* stylesheets for the block - creator-details */
 @import url(./block/creator-details/creator-details.css);
 
+/* stylesheets for the block - creator-avatar */
 @import url(./block/creator-avatar/creator-avatar.css);
 
+/* stylesheets for the block - creator-info */
 @import url(./block/creator-info/creator-info.css);
 @import url(./block/creator-info/__name/creator-info__name.css);
