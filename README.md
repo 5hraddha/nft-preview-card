@@ -11,3 +11,6 @@ This project is a simple NFT Preview Card, a challenge taken from Frontend Mento
 
 ## Components Hierarchy
 ![react-components-hierarchy](src/images/nft-card-component.png)
+
+## Live Demo
+Check the live page [here](https://5hraddha.github.io/nft-preview-card/)
