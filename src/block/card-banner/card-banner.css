@@ -1,4 +1,33 @@
 .card-banner {
   margin: 0;
   padding: 0;
+  position: relative;
+}
+
+.card-banner:hover {
+  cursor: pointer;
+}
+
+.card-banner:hover::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  background-color: hsl(178, 100%, 50%);
+  border-radius: 10px;
+  opacity: .6;
+}
+
+.card-banner:hover::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  background-image: url(../../images/icon-view.svg);
+  background-repeat: no-repeat;
+  background-position: center;
 }

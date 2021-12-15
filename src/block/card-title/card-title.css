@@ -4,4 +4,10 @@
   font-size: 25px;
   font-weight: 400;
   color: hsl(0, 0%, 100%);
+  transition: all ease-in-out .2s;
+}
+
+.card-title:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
 }
