@@ -1,10 +1,9 @@
 import React from 'react';
-import CardBannerImg from './../images/image-equilibrium.jpg';
 
-function CardBanner() {
+function CardBanner({cardBanner}) {
   return (
     <div className="card-banner">
-      <img className="card-banner__img" src={CardBannerImg} alt="Card banner" />
+      <img className="card-banner__img" src={cardBanner} alt="Card banner" />
     </div>
   );
 }

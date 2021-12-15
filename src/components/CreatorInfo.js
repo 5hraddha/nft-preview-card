@@ -1,8 +1,8 @@
 import React from 'react';
 
-function CreatorInfo(){
+function CreatorInfo({creatorName}){
   return (
-  <div></div>
+    <p className="creator-info">Creation of <span className="creator-info__name">{creatorName}</span></p>
   );
 }
 

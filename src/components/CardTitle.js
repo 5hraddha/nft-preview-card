@@ -1,8 +1,8 @@
 import React from 'react';
 
-function CardTitle() {
+function CardTitle({cardTitle}) {
   return (
-    <h1 className="title">Equilibrium #3429</h1>
+    <h1 className="card-title">{cardTitle}</h1>
   );
 }
 

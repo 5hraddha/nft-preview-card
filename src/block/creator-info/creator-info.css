@@ -1,7 +1,7 @@
-.description {
+.creator-info {
   margin: 0;
-  padding: 0 0 25px;
-  font-size: 20px;
+  padding: 0 0 0 20px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.5;
   color: hsl(215, 51%, 70%);

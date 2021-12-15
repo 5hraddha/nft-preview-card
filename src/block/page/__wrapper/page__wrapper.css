@@ -9,7 +9,6 @@
   grid-template-columns: minmax(0, 1fr) 375px minmax(0, 1fr);
   justify-content: center;
   align-items: center;
-  border: 1px solid yellow;
 }
 
 @media screen and (max-width: 400px) {

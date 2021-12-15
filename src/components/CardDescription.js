@@ -1,8 +1,8 @@
 import React from 'react';
 
-function CardDescription() {
+function CardDescription({cardDescription}) {
   return (
-    <p className="description">Our Equilibrium collection promotes balance and calm.</p>
+    <p className="card-description">{cardDescription}</p>
   );
 }
 
